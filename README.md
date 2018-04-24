@@ -75,6 +75,8 @@ Students will present papers which analyze computational models that arise in bi
 - Gordo I, Dionisio F (2005) Nonequilibrium model for estimating parameters of deleterious mutations. Phys Rev E 71(3):18–21.
 - Trindade S, Perfeito L, Gordo I (2010) Rate and effects of spontaneous mutations that affect fitness in mutator Escherichia coli. Philos Trans R Soc B Biol Sci 365(1544):1177–1186.
 - Moura De Sousa JA, Campos PRAA, Gordo I (2013) An ABC Method for Estimating the Rate and Distribution of Effects of Beneficial Mutations. Genome Biol Evol 5(5):794–806.
+- [An Approximate Markov Model for the Wright–Fisher Diffusion and Its Application to Time Series Data
+](http://www.genetics.org/content/203/2/831)
 
 ### Ecology: Social netowrks
 
