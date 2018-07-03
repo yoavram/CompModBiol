@@ -1,6 +1,6 @@
 # Seminar: Computational Models in Biology
 
-Students will present papers which analyze computational models that arise in biology. Models will include discrete and continuous-time dynamics, in deterministic and stochastic settings, with applications to molecular biology, population dynamics, and population genetics.
+Students will present papers that address modelling and data analysis in the context of biology. We will talk about discrete- and continuous-time dynamics, both stochastic and deterministic. We will see, though the review of literature, how to apply such models to understand and study ecology, evolution, genetics, epidemiology, and behaviour.
 
 - Elective graduate course
 - Spring 2019
