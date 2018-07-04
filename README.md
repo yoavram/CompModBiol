@@ -87,3 +87,5 @@ Students will present papers that address modelling and data analysis in the con
 ### Epidemiology
 
 - Bonten MJ, Austin DJ, Lipsitch M (2001) Understanding the spread of antibiotic resistant pathogens in hospitals: mathematical models as tools for control. Clin Infect Dis 33(10):1739–46.
+- Tanaka MM, Francis AR, Luciani F, Sisson SA (2006) Using Approximate Bayesian Computation to Estimate Tuberculosis Transmission Parameters From Genotype Data. 1520(July):1511–1520.
+- _Extension of previous:_ Sisson SA, Fan Y, Tanaka MM (2007) Sequential Monte Carlo without likelihoods. Proc Natl Acad Sci 104(6):1760–1765.
