@@ -55,6 +55,7 @@ Students will present papers that address modelling and data analysis in the con
 ### Evolution: Learning
 
 - Wakano JY, Aoki K, Feldman MW (2004) Evolution of social learning: A mathematical analysis. Theor Popul Biol 66:249–258.
+- Rogers AR (1988) Does biology constrain culture? Am Anthropol 90:819-831.
 
 ### Evolution: phenotypic switching
 
