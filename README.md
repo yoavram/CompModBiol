@@ -71,21 +71,28 @@ Students will present papers that address modelling and data analysis in the con
 
 ### Evolution: Cooperation
 
+- Motro U (1991) Co-operation and Defection: Playing the Field and the ESS. J Theor Biol 151:145–154. doi:10.1016/S0022-5193(05)80358-3
 - Obolski U, Lewin-Epstein O, Even-Tov E, Ram Y, Hadany L (2017) With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing. BMC Evol Biol 17(1):143.
+- Boyd R, Richerson PJ, Henrich J (2011) Rapid cultural adaptation can facilitate the evolution of large-scale cooperation. Behav Ecol Sociobiol 65(3):431–444. doi:10.1007/s00265-010-1100-3
 
 ### Evolution: Analysis of empirical data
 
 - Szendro IG, Schenk MF, Franke J, Krug J, de Visser JAGM (2013) Quantitative analyses of empirical fitness landscapes. J Stat Mech Theory Exp 2013(1):P01005.
-- Bank C, Hietpas RT, Wong A, Bolon DNA, Jensen JD (2014) A Bayesian MCMC Approach To Assess the Complete Distribution of Fitness Effects of New Mutations: Uncovering the Potential for Adaptive Walks in Challenging Environments. Genetics 196(3):1–35.
+- Ferrer-admetlla A, Leuenberger C, Jensen JD, Wegmann D (2016) An Approximate Markov Model for the Wright – Fisher. 203(June):831–846. doi:10.1534/genetics.115.184598. 
+
+#### Estimating selection coefficients and mutation rates from evolutionary experiments with microbes
+- Hegreness M, Shoresh N, Hartl DL, Kishony R (2006) An equivalence principle for the incorporation of favorable mutations in asexual populations. Science (80- ) 311(5767):1615–7. doi:10.1126/science.1122469
+- Barrick JE, Kauth MR, Strelioff CC, Lenski RE (2010) Escherichia coli rpoB mutants have increased evolvability in proportion to their fitness defects. Mol Biol Evol 27(6):1338–1347. doi:10.1093/molbev/msq024
+- Moura De Sousa JA, Campos PRAA, Gordo I (2013) An ABC Method for Estimating the Rate and Distribution of Effects of Beneficial Mutations. Genome Biol Evol 5(5):794–806. doi:10.1093/gbe/evt045
 - Gordo I, Dionisio F (2005) Nonequilibrium model for estimating parameters of deleterious mutations. Phys Rev E 71(3):18–21.
 - Trindade S, Perfeito L, Gordo I (2010) Rate and effects of spontaneous mutations that affect fitness in mutator Escherichia coli. Philos Trans R Soc B Biol Sci 365(1544):1177–1186.
-- Moura De Sousa JA, Campos PRAA, Gordo I (2013) An ABC Method for Estimating the Rate and Distribution of Effects of Beneficial Mutations. Genome Biol Evol 5(5):794–806.
-- [An Approximate Markov Model for the Wright–Fisher Diffusion and Its Application to Time Series Data
-](http://www.genetics.org/content/203/2/831)
+- Bank C, Hietpas RT, Wong A, Bolon DNA, Jensen JD (2014) A Bayesian MCMC Approach To Assess the Complete Distribution of Fitness Effects of New Mutations: Uncovering the Potential for Adaptive Walks in Challenging Environments. Genetics 196(3):1–35.
 
 ### Ecology: Social netowrks
 
 - Ilany A, Akçay E (2016) Social inheritance can explain the structure of animal social networks. Nat Commun 7(May). doi:10.1038/ncomms12084.
+- Ilany A, Akçay E (2016) Personality and social networks: A generative model approach. Integr Comp Biol 56(6):1197–1205. doi:10.1093/icb/icw068
+- Akçay E (2017) Collapse and rescue of cooperation in evolving dynamic networks. bioRxiv. doi:10.1101/226563.
 
 ### Epidemiology
 
