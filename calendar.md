@@ -9,8 +9,8 @@
 |   2   |   14/3    |       |
 |   x   |   21/3    | *Purim*  |
 |   3   |   28/3    |       | 
-|   4   |   4/4     |       | J Friedman?
-|   5   |   11/4    |       | J Friedman?
+|   4   |   4/4     |       | 
+|   5   |   11/4    |       | J Friedman
 |   x   |   18/4    | *Passover*   |
 |   x   |   25/4    | *Passover*   |
 |   6   |   2/5     |       | U Obolski 
