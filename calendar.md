@@ -13,7 +13,7 @@
 |   5   |   11/4    |       | J Friedman?
 |   x   |   18/4    | *Passover*   |
 |   x   |   25/4    | *Passover*   |
-|   6   |   2/5     |       |
+|   6   |   2/5     |       | U Obolski 
 |   x   |   9/5     | *Independence Day*    |
 |   7   |   16/5    |       |
 |   8   |   23/5    |       |
