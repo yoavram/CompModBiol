@@ -1,25 +1,25 @@
 # Seminar: Computational Models in Biology
 ## Calendar
 
-**Work in progress**
+**Work in progress, calendar is tentative**
 
 |   #   |   Date    |   Topic   |   Speakers    | Links |
 |-------|-----------|-----------|---------------|-------|
-|   1   |   7/3     |       |
-|   2   |   14/3    |       |
+|   1   |   7/3     | Models in biology |
+|   2   |   14/3    | Theoretical evolution: fixation probability and time |
 |   x   |   21/3    | *Purim*  |
-|   3   |   28/3    |       | 
-|   4   |   4/4     |       | 
-|   5   |   11/4    |       | J Friedman
+|   3   |   28/3    | Theoretical evolution: Muller’s ratchet, hitch-hiking, mutational load | 
+|   4   |   4/4     | Analysis of data from evolutionary experiments | 
+|   5   |   11/4    | Theoretical ecology | J Friedman
 |   x   |   18/4    | *Passover*   |
 |   x   |   25/4    | *Passover*   |
-|   6   |   2/5     |       | U Obolski 
+|   6   |   2/5     | Computational epidemiology | U Obolski 
 |   x   |   9/5     | *Independence Day*    |
-|   7   |   16/5    |       |
-|   8   |   23/5    |       |
-|   9   |   30/5    |       |
-|   10  |   6/6     |       |
-|   11  |   13/6    |       |
+|   7   |   16/5    | Evolution of cooperation |
+|   8   |   23/5    | Generation of variation: the reduction principle |
+|   9   |   30/5    | Generation of variation in adaptive evolution |
+|   10  |   6/6     | Cultural evolution: evolution of learning |
+|   11  |   13/6    | Computational cell dynamics? | A Zaritsky?
 
 # Papers
 
