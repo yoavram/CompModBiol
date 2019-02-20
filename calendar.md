@@ -16,10 +16,10 @@
 |   6   |   2/5     | Computational epidemiology | U Obolski 
 |   x   |   9/5     | *Independence Day*    |
 |   7   |   16/5    | Evolution of cooperation |
-|   8   |   23/5    | Generation of variation: the reduction principle |
-|   9   |   30/5    | Generation of variation in adaptive evolution |
-|   10  |   6/6     | Cultural evolution: evolution of learning |
-|   11  |   13/6    | Computational cell dynamics? | A Zaritsky?
+|   8   |   23/5    | Computational cell dynamics? | A Zaritsky
+|   9   |   30/5    | Generation of variation: the reduction principle |
+|   10  |   30/5    | Generation of variation in adaptive evolution |
+|   11  |   13/6    | Cultural evolution: evolution of learning |
 
 # Papers
 
