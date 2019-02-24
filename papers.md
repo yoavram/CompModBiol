@@ -123,6 +123,7 @@ Lazer, David, et al. "The parable of Google Flu: traps in big data analysis." Sc
 - Creanza N, Fogarty L, Feldman MW (2016) Cultural niche construction of repertoire size and learning strategies in songbirds. Evol Ecol 30(2):285–305.
 - Ohtsuki H, Wakano JY, Kobayashi Y (2017) Inclusive fitness analysis of cumulative cultural evolution in an island-structured population. Theor Popul Biol 115:13–23.
 - Fogarty L (2018) Cultural complexity and evolution in fluctuating environments. Philos Trans R Soc B Biol Sci 373(1743). doi:10.1098/rstb.2017.0063.
+- Kolodny O, Creanza N, Feldman MW (2016) Game-Changing Innovations: How Culture Can Change the Parameters of Its Own Evolution and Induce Abrupt Cultural Shifts. PLoS Comput Biol 12(12):1–15.
 
 ## 11
 ### Evolution of social learning
