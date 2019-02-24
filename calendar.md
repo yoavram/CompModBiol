@@ -17,7 +17,7 @@
 |   x   |   9/5     | *Independence Day*    |
 |   7   |   16/5    | Large scale evolutionary data  |
 |   8   |   23/5    | Computational cell dynamics | A Zaritsky
-|   9   |   30/5    | Evolution of mutation rate: the reduction principle |
-|   10  |   30/5    | Evolution of mutation rate: adaptive evolution |
-|   11  |   13/6    | Cultural evolution: evolution of learning |
+|   9   |   30/5    | Evolution of mutation rate
+|   10  |   30/5    | Cultural evolution
+|   11  |   13/6    | Evolution of learning
 
