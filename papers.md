@@ -1,4 +1,5 @@
-# Papers
+# Seminar: Computational Models in Biology
+## Papers
 ** xxx This list is still under development xxx**
 
 ## 2
