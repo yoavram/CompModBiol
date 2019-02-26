@@ -6,7 +6,7 @@
 **Work in progress, calendar is tentative**
 
 ### Presentations
-Room C.110 (Computer Science building)
+Room C.108 (Computer Science building)
 
 |   #   |   Date    |   Topic               |   Speakers    | Links |
 |-------|-----------|-----------------------|---------------|-------|
