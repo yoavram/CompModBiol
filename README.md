@@ -9,4 +9,5 @@ Students will present papers that address modelling and data analysis in the con
 - Elective graduate course
 - Spring 2019
 - Prerequisites: quantitative background is required, biology background is not required
-- Grading: seminar presentation (in English), participation in discussions
+- Grading: seminar presentation, participation in discussions
+- Language: English
