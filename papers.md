@@ -72,8 +72,8 @@ TBD
 - Sisson SA, Fan Y, Tanaka MM (2007) Sequential Monte Carlo without likelihoods. Proc Natl Acad Sci 104(6):1760–1765.
 
 ### Big-data epidemiology
-Ginsberg, Jeremy, et al. "Detecting influenza epidemics using search engine query data." Nature457.7232 (2009): 1012.
-Lazer, David, et al. "The parable of Google Flu: traps in big data analysis." Science 343.6176 (2014): 1203-1205.
+- Ginsberg, Jeremy, et al. "Detecting influenza epidemics using search engine query data." Nature457.7232 (2009): 1012.
+- Lazer, David, et al. "The parable of Google Flu: traps in big data analysis." Science 343.6176 (2014): 1203-1205.
 
 ## Week 7
 ### Analysis of spatial structure 
