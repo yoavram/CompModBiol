@@ -10,7 +10,7 @@ Room C.110 (Computer Science building)
 
 |   #   |   Date    |   Topic               |   Speakers    | Links |
 |-------|-----------|-----------------------|---------------|-------|
-|   1   |   7/3     | Models in biology     | Y Ram
+|   1   |   7/3     | Introduction          | Y Ram
 |   2   |   14/3    | Theoretical evolution |
 |   x   |   21/3    | *Purim*               |
 |   3   |   28/3    | Theoretical evolution | 
