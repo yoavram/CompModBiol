@@ -33,7 +33,7 @@ Room C.108 (Computer Science building)
 |       |           |                                | 2) 
 |   10  |   30/5    | Evolution of learning | 1) 
 |       |           |                       | 2) 
-|   11  |   13/6    | Population genetics   | 1) [Ilan Gronau?](http://www.faculty.idc.ac.il/igronau/), IDC
+|   11  |   13/6    | Population genetics   | 1) [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
 |       |           |                       | 2) 
 
 ### Meetings 
