@@ -72,11 +72,6 @@
 - Lazer, David, et al. "The parable of Google Flu: traps in big data analysis." Science 343.6176 (2014): 1203-1205.
 
 ## Week 7
-### Analysis of spatial structure 
-- Yang W-Y, Novembre J, Eskin E, Halperin E (2012) A model-based approach for analysis of spatial structure in genetic data. Nat Genet 44(6):725–731.
-- Creanza N, Feldman MW (2016) Worldwide genetic and cultural change in human evolution. Curr Opin Genet Dev 41:85–92.
-- Creanza N, et al. (2015) A comparison of worldwide phonemic and genetic variation in human populations. Proc Natl Acad Sci 112(5):1265–1272.
-- Carja O, et al. (2017) Worldwide patterns of human epigenetic variation. Nat Ecol Evol:0–1.
 
 ### Long-term evolutionary experiment
 - Lenski RE, Rose MR, Simpson SC, Tadler SC (1991) Long-Term Experimental Evolution in Escherichia coli. I. Adaptation and Divergence During 2,000 Generations. Am Nat 138(6):1315.
@@ -135,4 +130,10 @@
 - Hobaiter C, Poisot T, Zuberbühler K, Hoppitt W, Gruber T (2014) Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees. PLoS Biol 12(9). doi:10.1371/journal.pbio.1001960.
 
 ## Week 11
-**TBD**
+### Analysis of spatial structure 
+- Novembre J, et al. (2008) Genes mirror geography within Europe. Nature 456(7218):98–101.
+- Yang W-Y, Novembre J, Eskin E, Halperin E (2012) A model-based approach for analysis of spatial structure in genetic data. Nat Genet 44(6):725–731.
+- Creanza N, Feldman MW (2016) Worldwide genetic and cultural change in human evolution. Curr Opin Genet Dev 41:85–92.
+- Creanza N, et al. (2015) A comparison of worldwide phonemic and genetic variation in human populations. Proc Natl Acad Sci 112(5):1265–1272.
+- Carja O, et al. (2017) Worldwide patterns of human epigenetic variation. Nat Ecol Evol:0–1.
+
