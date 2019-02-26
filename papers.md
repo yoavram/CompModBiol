@@ -1,6 +1,8 @@
 # Seminar: Computational Models in Biology
 ## Papers
 
+[Home](README.md) | [Calendar](calendar.md) | [Guidelines](guidelines.md)
+
 ## Week 2
 
 ### Fixation probability and time
