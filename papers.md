@@ -4,23 +4,21 @@
 
 ## Week 2
 
-### Fixation probability
+### Fixation probability and time
 - Eshel I (1981) On the survival probability of a slightly advantageous mutant gene with a general distribution of progeny size - a branching process model. J Math Biol 12(3):355–362.
 - Otto SP, Whitlock MC (2013) Fixation Probabilities and Times. ELS (John Wiley & Sons, Ltd, Chichester, UK). doi:10.1002/9780470015902.a0005464.pub3.
 - Patwa Z, Wahl LM (2008) The fixation probability of beneficial mutations. J R Soc Interface 5(28):1279–89.
 - Gifford DR, de Visser JAGM, Wahl LM (2013) Model and test in a fungus of the probability that beneficial mutations survive drift. Biol Lett 9(1):20120310.
 - Chelo IM, Nédli J, Gordo I, Teotónio H (2013) An experimental test on the probability of extinction of new genetic variants. Nat Commun 4:2417.
-
-### Fixation time
 - Kimura M, Ohta T (1969) The Average Number of Generations until Fixation of a Mutant Gene in a Finite Population. Genetics 61(3):763–71.
 - Gillespie JH (1983) A simple stochastic gene substitution model. Theor Popul Biol 23(2):202–215.
 - Otto SP, Whitlock MC (2013) Fixation Probabilities and Times. ELS (John Wiley & Sons, Ltd, Chichester, UK). doi:10.1002/9780470015902.a0005464.pub3.
 
-## Week 3
-
 ### Genetic load
 - Kimura, M. and Maruyama, T. (1966), The mutational load with epistatic gene interactions in fitness., Genetics 54(6), 1337–51
-Kimura M, Maruyama T (1969) The substitutional load in a finite population. Heredity (Edinb) 24(1):101–114.
+- Kimura M, Maruyama T (1969) The substitutional load in a finite population. Heredity (Edinb) 24(1):101–114.
+
+## Week 3
 
 ### Muller's ratchet
 - Haigh, J. (1978), The accumulation of deleterious genes in a population - mullers ratchet, Theoretical Population Biology 14(2), 251–267. doi:10.1016/0040-5809(78)90027-8
@@ -31,7 +29,6 @@ Kimura M, Maruyama T (1969) The substitutional load in a finite population. Here
 ### Hitch-hiking and clonal interference
 - Maynard Smith J, Haigh J (1974) The hitch-hiking effect of a favourable gene. Genet Res 23(1):23–35.
 - Charlesworth B (2007) A hitch-hiking guide to the genome: a commentary on “The hitch-hiking effect of a favourable gene” by John Maynard Smith and John Haigh. Genet Res 89(5–6):389–90.
-- Gerrish PJ, Lenski RE (1998) The fate of competing beneficial mutations in an asexual population. Genetica 102/103(0):127–144.
 - Gerrish PJ, Lenski RE (1998) The fate of competing beneficial mutations in an asexual population. Genetica 102/103(0):127–144.
 - Lang GI, et al. (2013) Pervasive genetic hitchhiking and clonal interference in forty evolving yeast populations. Nature 500(7464):571–4.
 - Barroso-Batista J, et al. (2014) The First Steps of Adaptation of Escherichia coli to the Gut Are Dominated by Soft Sweeps. PLoS Genet 10(3):e1004182.
@@ -57,12 +54,10 @@ Kimura M, Maruyama T (1969) The substitutional load in a finite population. Here
 - Matuszewski S, Hildebrandt ME, Ghenu A-H, Jensen JD, Bank C (2016) A Statistical Guide to the Design of Deep Mutational Scanning Experiments. Genetics 204(1):77–87.
 
 ## Week 5
-- Friedman J, Higgins LM, Gore J (2017) rules. Nat Ecol Evol 1(March):1–7. doi:10.1038/s41559-017-0109
-
-TBD
+**TBD**
 
 ## Week 6
-TBD
+**TBD**
 
 ### Drug resistance in the hospital
 - Bonten MJ, Austin DJ, Lipsitch M (2001) Understanding the spread of antibiotic resistant pathogens in hospitals: mathematical models as tools for control. Clin Infect Dis 33(10):1739–46.
@@ -97,7 +92,7 @@ TBD
 - Kong A, et al. (2018) The nature of nurture: Effects of parental genotypes. Science (80- ) 359(6374):424–428.
 
 ## Week 8
-TBD
+**TBD**
 
 ## Week 9
 ### Reduction principle
@@ -139,4 +134,4 @@ TBD
 - Hobaiter C, Poisot T, Zuberbühler K, Hoppitt W, Gruber T (2014) Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees. PLoS Biol 12(9). doi:10.1371/journal.pbio.1001960.
 
 ## Week 11
-TBD
+**TBD**
