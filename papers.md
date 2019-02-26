@@ -58,7 +58,6 @@
 **TBD**
 
 ## Week 6
-**TBD**
 
 ### Drug resistance in the hospital
 - Bonten MJ, Austin DJ, Lipsitch M (2001) Understanding the spread of antibiotic resistant pathogens in hospitals: mathematical models as tools for control. Clin Infect Dis 33(10):1739–46.
@@ -88,7 +87,17 @@
 - Kong A, et al. (2018) The nature of nurture: Effects of parental genotypes. Science (80- ) 359(6374):424–428.
 
 ## Week 8
-**TBD**
+### Microscopy image enhancement with deep learning
+- Content-aware image restoration: pushing the limits of fluorescence microscopy (Nat. Methods 2018)
+- Deep learning massively accelerates super-resolution localization microscopy (Nat. Biotechnology 2018)
+
+### Prediction of molecular structures
+- In silico labeling: Predicting fluorescent labels in unlabeled images (Cell 2018)
+- Label-free prediction of three-dimensional fluorescence images from transmitted-light microscopy (Nat. Methods 2018)
+
+### Classifying cell state with deep learning
+- Prospective identification of hematopoietic lineage choice by deep learning (Nat. Methods 2017)
+- Reconstructing cell cycle and disease progression using deep learning (Nat. Communications 2017)  
 
 ## Week 9
 ### Reduction principle
