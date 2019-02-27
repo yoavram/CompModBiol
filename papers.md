@@ -26,6 +26,8 @@
 - Kimura M, Maruyama T (1969) The substitutional load in a finite population. Heredity (Edinb) 24(1):101–114.
 
 ## Week 3
+### Preliminary reading
+- None
 
 ### Muller's ratchet
 - Haigh, J. (1978), The accumulation of deleterious genes in a population - mullers ratchet, Theoretical Population Biology 14(2), 251–267. doi:10.1016/0040-5809(78)90027-8
@@ -42,9 +44,7 @@
 
 ## Week 4
 ### Preliminary reading
-One of:
-- Wiser MJ, Lenski RE (2017) Evolutionary Theory and Experiments With Microorganisms ☆ Growth Advantage in Stationary Phase. Ref Modul Life Sci (August 2016):1–14.
-- Barrick JE, Lenski RE (2013) Genome dynamics during experimental evolution. Nat Rev Genet 14(12):827–39.
+- Wiser MJ, Lenski RE (2017) Evolutionary Theory and Experiments With Microorganisms. Ref Modul Life Sci (August 2016):1–14. doi:[10.1016/B978-0-12-809633-8.13042-0](http://doi.org/10.1016/B978-0-12-809633-8.13042-0)
 
 ### Serial transfer experiments
 - Hegreness M, Shoresh N, Hartl DL, Kishony R (2006) An equivalence principle for the incorporation of favorable mutations in asexual populations. Science (80- ) 311(5767):1615–7. doi:10.1126/science.1122469
@@ -67,10 +67,12 @@ One of:
 
 ## Week 5
 **TBD**
+### Preliminary reading
+TBD
 
 ## Week 6
 ### Preliminary reading
-- Grassly NC, Fraser C (2008) Mathematical models of infectious disease transmission. Nat Rev Microbiol 6. doi:10.1038/nrmicro1845.
+- Grassly NC, Fraser C (2008) Mathematical models of infectious disease transmission. Nat Rev Microbiol 6. doi:[10.1038/nrmicro1845](http://doi.org/10.1038/nrmicro1845).
 
 ### Drug resistance in the hospital
 - Bonten MJ, Austin DJ, Lipsitch M (2001) Understanding the spread of antibiotic resistant pathogens in hospitals: mathematical models as tools for control. Clin Infect Dis 33(10):1739–46.
@@ -120,8 +122,8 @@ One of:
 - Reconstructing cell cycle and disease progression using deep learning (Nat. Communications 2017)  
 
 ## Week 9
-### Perliminary reading
-- Sniegowski PD, Gerrish PJ, Johnson T, Shaver A (2000) The evolution of mutation rates: separating causes from consequences. BioEssays 22(12):1057–66.
+### Preliminary reading
+- None
 
 ### Reduction principle
 - Liberman U, Feldman MW (1986) Modifiers of mutation rate: A general reduction principle. Theor Popul Biol 30(1):125–142.
@@ -144,7 +146,7 @@ One of:
 
 ## Week 10
 ### Preliminary reading
-- Creanza N, Kolodny O, Feldman MW (2017) Cultural evolutionary theory: How culture evolves and why it matters. Proc Natl Acad Sci 114(30):7782–7789.
+- Creanza N, Kolodny O, Feldman MW (2017) Cultural evolutionary theory: How culture evolves and why it matters. Proc Natl Acad Sci 114(30):7782–7789. doi:[10.1073/pnas.1620732114](http://doi.org/10.1073/pnas.1620732114)
 
 ### Evolution of social learning
 - Wakano JY, Aoki K, Feldman MW (2004) Evolution of social learning: A mathematical analysis. Theor Popul Biol 66:249–258.
@@ -162,9 +164,12 @@ One of:
 - Allen J, Weinrich M, Hoppitt W, Rendell L (2013) Network-Based Diffusion Analysis Reveals Cultural Transmission of Lobtail Feeding in Humpback Whales. Science (80- ) 340(6131):485–488.
 - Hoppitt W, Boogert NJ, Laland KN (2010) Detecting social transmission in networks. J Theor Biol 263(4):544–555.
 - Kendal RL, et al. (2010) Evidence for social learning in wild lemurs (Lemur catta). Learn Behav 38(3):220–234.
-- Hobaiter C, Poisot T, Zuberbühler K, Hoppitt W, Gruber T (2014) Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees. PLoS Biol 12(9). doi:10.1371/journal.pbio.1001960.
+- Hobaiter C, Poisot T, Zuberbühler K, Hoppitt W, Gruber T (2014) Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees. PLoS Biol 12(9).
 
 ## Week 11
+### Preliminary reading
+- None
+
 ### Analysis of spatial structure 
 - Novembre J, et al. (2008) Genes mirror geography within Europe. Nature 456(7218):98–101.
 - Yang W-Y, Novembre J, Eskin E, Halperin E (2012) A model-based approach for analysis of spatial structure in genetic data. Nat Genet 44(6):725–731.
