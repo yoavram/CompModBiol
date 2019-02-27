@@ -12,3 +12,4 @@ Students will present papers that address modelling and data analysis in the con
 - Prerequisites: quantitative background is required, biology background is not required
 - Grading: seminar presentation, participation, preliminary reading
 - Language: English
+- Forums on Moodle: [Announcements](https://moodle.idc.ac.il/2019/mod/forum/view.php?id=46082) and [General questions](https://moodle.idc.ac.il/2019/mod/forum/view.php?id=61801).
