@@ -31,7 +31,7 @@ Room C.108 (Computer Science building)
 |       |           |                                | 2) 
 |   9   |   30/5    | Evolution of mutation rate     | 1) 
 |       |           |                                | 2) 
-|   10  |   30/5    | Evolution of learning | 1) 
+|   10  |   6/6     | Evolution of learning | 1) 
 |       |           |                       | 2) 
 |   11  |   13/6    | Population genetics   | 1) [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
 |       |           |                       | 2) 
@@ -54,6 +54,6 @@ Room PE.309 (Psychology building)
 |   7   |   16/5    |    |  
 |   8   |   23/5    |    |
 |   9   |   30/5    |    |
-|   10  |   30/5    |    |
+|   10  |   6/6     |    |
 
 
