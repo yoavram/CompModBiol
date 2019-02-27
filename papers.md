@@ -1,5 +1,4 @@
-# Seminar: Computational Models in Biology
-## Papers
+# Papers
 
 [Home](README.md) | [Calendar](calendar.md) | [Guidelines](guidelines.md)
 
