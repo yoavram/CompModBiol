@@ -108,17 +108,10 @@ TBD
 ### Preliminary reading
 - [Introduction to cell biology](https://di.uq.edu.au/community-and-alumni/sparq-ed/cell-and-molecular-biology-experiences/introduction-cell-biology), Diamantina Institute, The University Of Queensland
 
-### Microscopy image enhancement with deep learning
-- Content-aware image restoration: pushing the limits of fluorescence microscopy (Nat. Methods 2018)
-- Deep learning massively accelerates super-resolution localization microscopy (Nat. Biotechnology 2018)
-
-### Prediction of molecular structures
-- In silico labeling: Predicting fluorescent labels in unlabeled images (Cell 2018)
-- Label-free prediction of three-dimensional fluorescence images from transmitted-light microscopy (Nat. Methods 2018)
-
-### Classifying cell state with deep learning
-- Prospective identification of hematopoietic lineage choice by deep learning (Nat. Methods 2017)
-- Reconstructing cell cycle and disease progression using deep learning (Nat. Communications 2017)  
+### Cellular microscopy image enhancement with deep learning
+- Weigert M, et al. (2018) Content-aware image restoration: pushing the limits of fluorescence microscopy. Nat Methods 15(12):1090–1097.
+- Christiansen EM, et al. (2018) In Silico Labeling: Predicting Fluorescent Labels in Unlabeled Images. Cell 173(3):792–803.e19.
+- Ounkomol C, Seshamani S, Maleckar MM, Collman F, Johnson GR (2018) Label-free prediction of three-dimensional fluorescence images from transmitted-light microscopy. Nat Methods 15(11):917–920.
 
 ## Week 9
 ### Preliminary reading
