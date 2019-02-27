@@ -3,7 +3,13 @@
 
 [Home](README.md) | [Calendar](calendar.md) | [Guidelines](guidelines.md)
 
+## Week 1
+### Preliminary reading
+- Introduction to Evolution: [Mechanisms](https://evolution.berkeley.edu/evolibrary/article/evo_14), [Microevolution](https://evolution.berkeley.edu/evolibrary/article/evo_36), and [the big issues](https://evolution.berkeley.edu/evolibrary/article/evo_50), from _Understanding Evolution_ by the University of California Museum of Paleontology.
+
 ## Week 2
+### Preliminary reading
+- Lynch M (2007) The frailty of adaptive hypotheses for the origins of organismal complexity. Proc Natl Acad Sci 104 Suppl(Table 1):8597–604.
 
 ### Fixation probability and time
 - Eshel I (1981) On the survival probability of a slightly advantageous mutant gene with a general distribution of progeny size - a branching process model. J Math Biol 12(3):355–362.
@@ -35,6 +41,11 @@
 - Barroso-Batista J, et al. (2014) The First Steps of Adaptation of Escherichia coli to the Gut Are Dominated by Soft Sweeps. PLoS Genet 10(3):e1004182.
 
 ## Week 4
+### Preliminary reading
+One of:
+- Wiser MJ, Lenski RE (2017) Evolutionary Theory and Experiments With Microorganisms ☆ Growth Advantage in Stationary Phase. Ref Modul Life Sci (August 2016):1–14.
+- Barrick JE, Lenski RE (2013) Genome dynamics during experimental evolution. Nat Rev Genet 14(12):827–39.
+
 ### Serial transfer experiments
 - Hegreness M, Shoresh N, Hartl DL, Kishony R (2006) An equivalence principle for the incorporation of favorable mutations in asexual populations. Science (80- ) 311(5767):1615–7. doi:10.1126/science.1122469
 - Barrick JE, Kauth MR, Strelioff CC, Lenski RE (2010) Escherichia coli rpoB mutants have increased evolvability in proportion to their fitness defects. Mol Biol Evol 27(6):1338–1347. doi:10.1093/molbev/msq024
@@ -58,6 +69,8 @@
 **TBD**
 
 ## Week 6
+### Preliminary reading
+- Grassly NC, Fraser C (2008) Mathematical models of infectious disease transmission. Nat Rev Microbiol 6. doi:10.1038/nrmicro1845.
 
 ### Drug resistance in the hospital
 - Bonten MJ, Austin DJ, Lipsitch M (2001) Understanding the spread of antibiotic resistant pathogens in hospitals: mathematical models as tools for control. Clin Infect Dis 33(10):1739–46.
@@ -71,6 +84,9 @@
 - Lazer, David, et al. "The parable of Google Flu: traps in big data analysis." Science 343.6176 (2014): 1203-1205.
 
 ## Week 7
+### Preliminary reading
+- See week 4
+- Flanagan SP (2018) Quantitative Genetics of Behavior. Encycl Anim Behav 2nd Ed. doi:[10.1016/B978-0-12-809633-8.90044-X](http://doi.org/10.1016/B978-0-12-809633-8.90044-X).
 
 ### Long-term evolutionary experiment
 - Lenski RE, Rose MR, Simpson SC, Tadler SC (1991) Long-Term Experimental Evolution in Escherichia coli. I. Adaptation and Divergence During 2,000 Generations. Am Nat 138(6):1315.
@@ -78,6 +94,7 @@
 - Blount ZD, Barrick JE, Davidson CJ, Lenski RE (2012) Genomic analysis of a key innovation in an experimental Escherichia coli population. Nature 489(7417):513–8.
 - Wiser MJ, Ribeck N, Lenski RE (2013) Long-term dynamics of adaptation in asexual populations. Science (80- ) 342(6164):1364–7.
 - Good BH, et al. (2017) The dynamics of molecular evolution over 60,000 generations. Nature 551(7678):45–50.
+- Lenski RE (2017) Experimental evolution and the dynamics of adaptation and genome evolution in microbial populations. Nat Publ Gr 11(10):2181–2194.
 
 ### Polygenic risk scores
 - De Vlaming R, Groenen PJF (2015) The current and future use of ridge regression for prediction in quantitative genetics. Biomed Res Int 2015. doi:10.1155/2015/143712.
@@ -87,6 +104,9 @@
 - Kong A, et al. (2018) The nature of nurture: Effects of parental genotypes. Science (80- ) 359(6374):424–428.
 
 ## Week 8
+### Preliminary reading
+- [Introduction to cell biology](https://di.uq.edu.au/community-and-alumni/sparq-ed/cell-and-molecular-biology-experiences/introduction-cell-biology), Diamantina Institute, The University Of Queensland
+
 ### Microscopy image enhancement with deep learning
 - Content-aware image restoration: pushing the limits of fluorescence microscopy (Nat. Methods 2018)
 - Deep learning massively accelerates super-resolution localization microscopy (Nat. Biotechnology 2018)
@@ -100,6 +120,9 @@
 - Reconstructing cell cycle and disease progression using deep learning (Nat. Communications 2017)  
 
 ## Week 9
+### Perliminary reading
+- Sniegowski PD, Gerrish PJ, Johnson T, Shaver A (2000) The evolution of mutation rates: separating causes from consequences. BioEssays 22(12):1057–66.
+
 ### Reduction principle
 - Liberman U, Feldman MW (1986) Modifiers of mutation rate: A general reduction principle. Theor Popul Biol 30(1):125–142.
 - Holsinger KE, Feldman MW, Altenberg L (1986) Selection for increased mutation rates with fertility differences between matings. Genetics 112(4):909–22.
@@ -120,6 +143,9 @@
 - Ram Y, Altenberg L, Liberman U, Feldman MW (2018) Generation of variation and a modified mean fitness principle: Necessity is the mother of genetic invention. Theor Popul Biol 123:1–8.
 
 ## Week 10
+### Preliminary reading
+- Creanza N, Kolodny O, Feldman MW (2017) Cultural evolutionary theory: How culture evolves and why it matters. Proc Natl Acad Sci 114(30):7782–7789.
+
 ### Evolution of social learning
 - Wakano JY, Aoki K, Feldman MW (2004) Evolution of social learning: A mathematical analysis. Theor Popul Biol 66:249–258.
 - Aoki K, Wakano JY, Feldman MW (2005) The emergence of social learning in a temporally changing environment: a theoretical model. Curr Anthropol 46(2):334–340.
