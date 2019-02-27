@@ -1,11 +1,8 @@
-# Seminar: Computational Models in Biology
-## Calendar
+# Calendar
 
 [Home](README.md) | [Papers](papers.md) | [Guidelines](guidelines.md)
 
-**Work in progress, calendar is tentative**
-
-### Presentations
+## Presentations
 Room C.108 (Computer Science building)
 
 |   #   |   Date    |   Topic               |   Speakers    | Links |
@@ -36,7 +33,7 @@ Room C.108 (Computer Science building)
 |   11  |   13/6    | Population genetics   | 1) [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
 |       |           |                       | 2) 
 
-### Meetings 
+## Meetings 
 Room PE.309 (Psychology building)
 
 |   #   |   Date    | 16:00-17:00 | 17:00-18:00 | 
