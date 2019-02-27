@@ -8,7 +8,7 @@
 
 ## Week 2
 ### Preliminary reading
-- Lynch M (2007) The frailty of adaptive hypotheses for the origins of organismal complexity. Proc Natl Acad Sci 104 Suppl(Table 1):8597–604.
+- Lynch M (2007) The frailty of adaptive hypotheses for the origins of organismal complexity. Proc Natl Acad Sci 104(Suppl 1):8597–604. doi:[10.1073/pnas.0702207104](http://doi.org/10.1073/pnas.0702207104).
 
 ### Fixation probability and time
 - Eshel I (1981) On the survival probability of a slightly advantageous mutant gene with a general distribution of progeny size - a branching process model. J Math Biol 12(3):355–362.
