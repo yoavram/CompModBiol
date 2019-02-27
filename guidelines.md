@@ -14,7 +14,7 @@
   - One week before the presentation, after preparing a draft of the presentation, to ask questions and show the draft.
   - These meetings will take place on Thu 16:00 - 18:15, room PE.309, make sure to schedule well in advance (especially before holidays).
 - Grading will be based on presentation and participation:
-  -  Participation: attendance, alertness, asking questions, discussions, familiarity with reading material
+  -  Participation: attendance (mandatory), alertness, asking questions, discussions, familiarity with reading material
   -  Presentation: presenting (1) a biological question and the minimal required background, (2) the model, (3) the method for solving/approximating/applying the model to the biological question, (4) results of the model relating to the biological question, (5) possible extensions or applications, (6) experiments or observations supporting model assumptions or results or on which the model can be applied.
 - Guest lectures: we will have 3-4 guest lectures. If you would like to meet with the guest, please email [Yoav](mailto:yoav.ram@idc.ac.il).
 - To request to schedule a presentation or a meeting, open a [pull request](https://help.github.com/en/articles/editing-files-in-another-users-repository) by [editing the calendar](https://github.com/yoavram/CompModBiol/blob/master/calendar.md) page. Your scheduling request is approved when your pull request is merged.
