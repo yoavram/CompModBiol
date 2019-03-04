@@ -15,7 +15,7 @@ Room C.108 (Computer Science building)
 |       |           |                       | 2) 
 |   4   |   4/4     | Data from evolutionary experiments | 1)
 |       |           |                                    | 2)
-|   5   |   11/4    | Theoretical ecology   | 1) [Jonathan Friedman](https://www.friedmanlab.net), HUJI
+|   5   |   11/4    | Community ecology   | 1) [Jonathan Friedman](https://www.friedmanlab.net), HUJI
 |       |           |                       | 2) 
 |   x   |   18/4    | *Passover*            |
 |   x   |   25/4    | *Passover*            |
