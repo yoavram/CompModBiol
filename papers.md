@@ -10,6 +10,7 @@
 
 - Levins R (1966) The strategy of model builidng in population biology. Am Sci 54(3):421–431.
 - Plutynski A (2007) Strategies of Model Building in Population Genetics. Philos Sci 73(5):755–764.
+- Gunawardena J (2013) Biology is more theoretical than physics. Mol Biol Cell 24(12):1827–1829.
 
 ## Week 2
 ### Preliminary reading
