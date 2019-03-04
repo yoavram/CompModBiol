@@ -6,6 +6,11 @@
 ### Preliminary reading
 - Introduction to Evolution: [Mechanisms](https://evolution.berkeley.edu/evolibrary/article/evo_14), [Microevolution](https://evolution.berkeley.edu/evolibrary/article/evo_36), and [the big issues](https://evolution.berkeley.edu/evolibrary/article/evo_50), from _Understanding Evolution_ by the University of California Museum of Paleontology.
 
+### Models
+
+- Levins R (1966) The strategy of model builidng in population biology. Am Sci 54(3):421–431.
+- Plutynski A (2007) Strategies of Model Building in Population Genetics. Philos Sci 73(5):755–764.
+
 ## Week 2
 ### Preliminary reading
 - Lynch M (2007) The frailty of adaptive hypotheses for the origins of organismal complexity. Proc Natl Acad Sci 104(Suppl 1):8597–604. doi:[10.1073/pnas.0702207104](http://doi.org/10.1073/pnas.0702207104).
