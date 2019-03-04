@@ -13,3 +13,5 @@ Students will present papers that address modelling and data analysis in the con
 - Grading: seminar presentation, participation, preliminary reading
 - Language: English
 - Forums on Moodle: [Announcements](https://moodle.idc.ac.il/2019/mod/forum/view.php?id=46082) and [General questions](https://moodle.idc.ac.il/2019/mod/forum/view.php?id=61801).
+
+<p><small>There is a crack in everything, that’s how the light gets in</small></p>
