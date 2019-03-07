@@ -26,7 +26,7 @@ Room C.108 (Computer Science building)
 |       |           |                                | 2) 
 |   8   |   23/5    | Computational cell dynamics    | 1) [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | 2) 
-|   9   |   30/5    | Evolution of mutation rate     | 1) 
+|   9   |   30/5    | Evolution of mutation rate     | 1) Nitzan Katz
 |       |           |                                | 2) 
 |   10  |   6/6     | Evolution of learning | 1) Assaf Sinvani
 |       |           |                       | 2) 
@@ -48,8 +48,8 @@ Room PE.309 (Psychology building)
 |   x   |   25/4    | x  | x
 |   6   |   2/5     |    |  
 |   x   |   9/5     | x  | x
-|   7   |   16/5    |    |  
-|   8   |   23/5    | Assaf Sinvani   | 
+|   7   |   16/5    |    |  Nitzan Katz
+|   8   |   23/5    | Assaf Sinvani   | Nitzan Katz
 |   9   |   30/5    | Assaf Sinvani   |
 |   10  |   6/6     |    |
 
