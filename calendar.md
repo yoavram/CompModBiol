@@ -8,8 +8,9 @@ Room C.108 (Computer Science building)
 |   #   |   Date    |   Topic               |   Speakers    | Links |
 |-------|-----------|-----------------------|---------------|-------|
 |   1   |   7/3     | Introduction          | [Yoav Ram](http://www.yoavram.com), IDC | [Models in Biology: slides](https://www.dropbox.com/s/c3mzq3w5zwiyiym/ModelsInBiology.pdf?dl=1) |
-|   2   |   14/3    | Theoretical evolution | 1) 
-|       |           |                       | 2) 
+|   2   |   14/3    | Theoretical evolution | 1) Yoav Ram - intro
+
+|       |           |                       | 2) Saar Egozi
 |   x   |   21/3    | *Purim*               |
 |   3   |   28/3    | Theoretical evolution | 1)
 |       |           |                       | 2) 
