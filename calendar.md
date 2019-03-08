@@ -7,7 +7,7 @@ Room C.108 (Computer Science building)
 
 |   #   |   Date    |   Topic               |   Speakers    | Links |
 |-------|-----------|-----------------------|---------------|-------|
-|   1   |   7/3     | Introduction          | [Yoav Ram](http://www.yoavram.com), IDC | [Models in Biology: slides](https://www.dropbox.com/s/c3mzq3w5zwiyiym/ModelsInBiology.pdf?dl=1)|
+|   1   |   7/3     | Introduction          | [Yoav Ram](http://www.yoavram.com), IDC | [Models in Biology: slides](https://speakerdeck.com/yoavram/models-in-biology-or-biology-is-more-theoretical-than-physics)|
 |   2   |   14/3    | Theoretical evolution | 1) Yoav Ram - intro   |
 |       |           |                       | 2) Saar Egozi         |
 |   x   |   21/3    | *Purim*               |
