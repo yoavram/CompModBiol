@@ -20,7 +20,7 @@ Room C.108 (Computer Science building)
 |   x   |   18/4    | *Passover*            |
 |   x   |   25/4    | *Passover*            |
 |   6   |   2/5     | Computational epidemiology     | 1) [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), Oxford
-|       |           |                                | 2) 
+|       |           |                                | 2) Guy Haimovitz
 |   x   |   9/5     | *Independence Day*    |
 |   7   |   16/5    | Large scale evolutionary data  | 1) 
 |       |           |                                | 2) 
@@ -42,8 +42,8 @@ Room PE.309 (Psychology building)
 |   2   |   14/3    |    |  
 |   x   |   21/3    | x  | x
 |   3   |   28/3    |    |
-|   4   |   4/4     |    |
-|   5   |   11/4    |    |  
+|   4   |   4/4     | Guy Haimovitz   |
+|   5   |   11/4    | Guy Haimovitz   |  
 |   x   |   18/4    | x  | x
 |   x   |   25/4    | x  | x
 |   6   |   2/5     |    |  
