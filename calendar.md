@@ -25,7 +25,7 @@ Room C.108 (Computer Science building)
 |   7   |   16/5    | Large scale evolutionary data  | 1) 
 |       |           |                                | 2) 
 |   8   |   23/5    | Computational cell dynamics    | 1) [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
-|       |           |                                | 2) 
+|       |           |                                | 2) Hadar Aharoni
 |   9   |   30/5    | Evolution of mutation rate     | 1) Nitzan Katz
 |       |           |                                | 2) 
 |   10  |   6/6     | Evolution of learning | 1) Assaf Sinvani
@@ -46,9 +46,9 @@ Room PE.309 (Psychology building)
 |   5   |   11/4    | Guy Haimovitz   |  
 |   x   |   18/4    | x  | x
 |   x   |   25/4    | x  | x
-|   6   |   2/5     |    |  
+|   6   |   2/5     |    | Hadar Aharoni
 |   x   |   9/5     | x  | x
-|   7   |   16/5    |    |  Nitzan Katz
+|   7   |   16/5    |Hadar Aharoni    |  Nitzan Katz
 |   8   |   23/5    | Assaf Sinvani   | Nitzan Katz
 |   9   |   30/5    | Assaf Sinvani   |
 |   10  |   6/6     |    |
