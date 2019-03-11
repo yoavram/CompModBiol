@@ -13,7 +13,7 @@ Room C.108 (Computer Science building)
 |   x   |   21/3    | *Purim*               |
 |   3   |   28/3    | Theoretical evolution | 1)
 |       |           |                       | 2) 
-|   4   |   4/4     | Data from evolutionary experiments | 1)
+|   4   |   4/4     | Data from evolutionary experiments | 1) 
 |       |           |                                    | 2)
 |   5   |   11/4    | Community ecology   | 1) [Jonathan Friedman](https://www.friedmanlab.net), HUJI
 |       |           |                       | 2) 
@@ -22,7 +22,7 @@ Room C.108 (Computer Science building)
 |   6   |   2/5     | Computational epidemiology     | 1) [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), Oxford
 |       |           |                                | 2) Guy Haimovitz
 |   x   |   9/5     | *Independence Day*    |
-|   7   |   16/5    | Large scale evolutionary data  | 1) 
+|   7   |   16/5    | Large scale evolutionary data  | 1) Edan Hauon
 |       |           |                                | 2) 
 |   8   |   23/5    | Computational cell dynamics    | 1) [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | 2) Hadar Aharoni
@@ -41,12 +41,12 @@ Room PE.309 (Psychology building)
 |   1   |   7/3     | x  |
 |   2   |   14/3    |    |  
 |   x   |   21/3    | x  | x
-|   3   |   28/3    |    |
-|   4   |   4/4     | Guy Haimovitz   |
+|   3   |   28/3    |    | 
+|   4   |   4/4     | Guy Haimovitz   | Edan Hauon
 |   5   |   11/4    | Guy Haimovitz   |  
 |   x   |   18/4    | x  | x
 |   x   |   25/4    | x  | x
-|   6   |   2/5     |    | Hadar Aharoni
+|   6   |   2/5     | Edan Hauon  | Hadar Aharoni
 |   x   |   9/5     | x  | x
 |   7   |   16/5    |Hadar Aharoni    |  Nitzan Katz
 |   8   |   23/5    | Assaf Sinvani   | Nitzan Katz
