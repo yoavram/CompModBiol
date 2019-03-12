@@ -29,7 +29,7 @@ Room C.108 (Computer Science building)
 |   9   |   30/5    | Evolution of mutation rate     | 1) Nitzan Katz
 |       |           |                                | 2) Boaz Shvartzman
 |   10  |   6/6     | Evolution of learning | 1) Assaf Sinvani
-|       |           |                       | 2) 
+|       |           |                       | 2) Gilad Ram
 |   11  |   13/6    | Analysis of spatial structure  | 1) [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
 |       |           |                       | 2) 
 
@@ -49,8 +49,8 @@ Room PE.309 (Psychology building)
 |   6   |   2/5     | Edan Hauon |   | Hadar Aharoni | |
 |   x   |   9/5     | x  | x | x | x |
 |   7   |   16/5    |Hadar Aharoni | |  Nitzan Katz | |
-|   8   |   23/5    | Assaf Sinvani | | Nitzan Katz | |
-|   9   |   30/5    | Assaf Sinvani | | | |
+|   8   |   23/5    | Assaf Sinvani | Gilad Ram | Nitzan Katz | |
+|   9   |   30/5    | Assaf Sinvani | | | Gilad Ram|
 |   10  |   6/6     | x | x | | |
 
 
