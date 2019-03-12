@@ -36,21 +36,21 @@ Room C.108 (Computer Science building)
 ## Meetings 
 Room PE.309 (Psychology building)
 
-|   #   |   Date    | 16:00-17:00 | 17:00-18:00 | 
+|   #   |   Date    | 16:00-16:30 | 16:30-17:00 | 17:00-18:00 | 
 |-------|-----------|-------------|-------------|
-|   1   |   7/3     | x  |
-|   2   |   14/3    |    |  
-|   x   |   21/3    | x  | x
-|   3   |   28/3    |    | 
-|   4   |   4/4     | Guy Haimovitz   | Edan Hauon
-|   5   |   11/4    | Guy Haimovitz   |  
-|   x   |   18/4    | x  | x
-|   x   |   25/4    | x  | x
-|   6   |   2/5     | Edan Hauon  | Hadar Aharoni
-|   x   |   9/5     | x  | x
-|   7   |   16/5    |Hadar Aharoni    |  Nitzan Katz
-|   8   |   23/5    | Assaf Sinvani   | Nitzan Katz
-|   9   |   30/5    | Assaf Sinvani   |
-|   10  |   6/6     |    |
+|   1   |   7/3     | x  | x | x  | x |
+|   2   |   14/3    |    |   |    |   | 
+|   x   |   21/3    | x  | x | x  | x |
+|   3   |   28/3    |    |   |    |   | 
+|   4   |   4/4     | Guy Haimovitz | | Edan Hauon |
+|   5   |   11/4    | Guy Haimovitz | | | |
+|   x   |   18/4    | x  | x | x | x |
+|   x   |   25/4    | x  | x | x | x |
+|   6   |   2/5     | Edan Hauon |   | Hadar Aharoni | |
+|   x   |   9/5     | x  | x | x | x |
+|   7   |   16/5    |Hadar Aharoni | |  Nitzan Katz | |
+|   8   |   23/5    | Assaf Sinvani | | Nitzan Katz | |
+|   9   |   30/5    | Assaf Sinvani | | | |
+|   10  |   6/6     | x | x | | |
 
 
