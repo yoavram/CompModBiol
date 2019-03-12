@@ -27,9 +27,9 @@ Room C.108 (Computer Science building)
 |   8   |   23/5    | Computational cell dynamics    | 1) [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | 2) Hadar Aharoni
 |   9   |   30/5    | Evolution of mutation rate     | 1) Nitzan Katz
-|       |           |                                | 2) 
+|       |           |                                | 2) Boaz Shvartzman
 |   10  |   6/6     | Evolution of learning | 1) Assaf Sinvani
-|       |           |                       | 2) Boaz Shvartzman
+|       |           |                       | 2) 
 |   11  |   13/6    | Analysis of spatial structure  | 1) [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
 |       |           |                       | 2) 
 
