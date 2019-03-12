@@ -49,7 +49,7 @@ Room PE.309 (Psychology building)
 |   6   |   2/5     | Edan Hauon |   | Hadar Aharoni | |
 |   x   |   9/5     | x  | x | x | x |
 |   7   |   16/5    |Hadar Aharoni | |  Nitzan Katz | |
-|   8   |   23/5    | Assaf Sinvani | | Nitzan Katz | Gilad Ram |
+|   8   |   23/5    | Assaf Sinvani | Gilad Ram | Nitzan Katz | |
 |   9   |   30/5    | Assaf Sinvani | | | Gilad Ram|
 |   10  |   6/6     | x | x | | |
 
