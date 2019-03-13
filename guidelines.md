@@ -2,7 +2,7 @@
 
 [Home](README.md) | [Calendar](calendar.md) | [Papers](papers.md)
 
-- Seminars take place during Spring semester, Thu 18:30 - 21:00, room C.108, except for Purim, Passover, and Independence Day. See the course [calendar](calendar.md).
+- Seminars take place during Spring semester, Thu 18:30 - 21:00, room C.110, except for Purim, Passover, and Independence Day. See the course [calendar](calendar.md).
 - Each week will cover a specific theme. Some reading material will be provided before most weeks.
 - Two student presentations each week, 45-50 minutes each, plus discussions and a short break. 
 - Each presentation will cover 1-3 papers, depending on the scope and complexity of the papers.
