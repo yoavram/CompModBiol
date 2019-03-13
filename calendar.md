@@ -3,7 +3,7 @@
 [Home](README.md) | [Papers](papers.md) | [Guidelines](guidelines.md)
 
 ## Presentations
-Room C.108 (Computer Science building)
+Room C.110 (Computer Science building)
 
 |   #   |   Date    |   Topic               |   Speakers    | Links |
 |-------|-----------|-----------------------|---------------|-------|
