@@ -48,8 +48,8 @@ Room PE.309 (Psychology building)
 |   x   |   25/4    | *Passover*  | x | x | x |
 |   6   |   2/5     | Edan Hauon |   | Hadar Aharoni | |
 |   x   |   9/5     | *Independence Day*  | x | x | x |
-|   7   |   16/5    |Hadar Aharoni | |  Nitzan Katz | |
-|   8   |   23/5    | Assaf Sinvani | Gilad Ram | Nitzan Katz | |
+|   7   |   16/5    |Hadar Aharoni | |  Nitzan Katz | Boaz Shvartzman |
+|   8   |   23/5    | Assaf Sinvani | Gilad Ram | Nitzan Katz | Boaz Shvartzman |
 |   9   |   30/5    | Assaf Sinvani | | | Gilad Ram|
 |   10  |   6/6     | x | x | | |
 
