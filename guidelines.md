@@ -21,3 +21,4 @@
   - Check that there are no [open pull requests](https://github.com/yoavram/CompModBiol/pulls) for the requested time.
   - To schedule a presentation, add your name/s as speakers to the first table in the [calendar](https://github.com/yoavram/CompModBiol/blob/master/calendar.md).
   - To schedule a meeting, add your name/s to the second table in the [calendar](https://github.com/yoavram/CompModBiol/blob/master/calendar.md) at the requested time.
+  - In the pull request, please specify which papers/topic, more or less, you want to present.
