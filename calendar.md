@@ -23,7 +23,7 @@ Room C.110 (Computer Science building)
 |       |           |                                | 2) Guy Haimovitz
 |   x   |   9/5     | *Independence Day*    |
 |   7   |   16/5    | Large scale evolutionary data  | 1) Edan Hauon
-|       |           |                                | 2) 
+|       |           |                                | 2) Jonatan Meczyk
 |   8   |   23/5    | Computational cell dynamics    | 1) [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | 2) Hadar Aharoni
 |   9   |   30/5    | Evolution of mutation rate     | 1) Nitzan Katz
@@ -43,10 +43,10 @@ Room PE.309 (Psychology building)
 |   x   |   21/3    | *Purim*  | x | x  | x |
 |   3   |   28/3    |    |   |    |   | 
 |   4   |   4/4     | Guy Haimovitz | | Edan Hauon |
-|   5   |   11/4    | Guy Haimovitz | | | |
+|   5   |   11/4    | Guy Haimovitz | | | | Jonatan Meczyk
 |   x   |   18/4    | *Passover* | x | x | x |
 |   x   |   25/4    | *Passover*  | x | x | x |
-|   6   |   2/5     | Edan Hauon |   | Hadar Aharoni | |
+|   6   |   2/5     | Edan Hauon |   | Hadar Aharoni |  | Jonatan Meczyk
 |   x   |   9/5     | *Independence Day*  | x | x | x |
 |   7   |   16/5    |Hadar Aharoni | |  Nitzan Katz | Boaz Shvartzman |
 |   8   |   23/5    | Assaf Sinvani | Gilad Ram | Nitzan Katz | Boaz Shvartzman |
