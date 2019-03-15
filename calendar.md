@@ -16,7 +16,7 @@ Room C.110 (Computer Science building)
 |   4   |   4/4     | Data from evolutionary experiments | 1) 
 |       |           |                                    | 2)
 |   5   |   11/4    | Community ecology     | 1) [Jonathan Friedman](https://www.friedmanlab.net), HUJI
-|       |           |                       | 2) 
+|       |           |                       | 2) Stav Eliav
 |   x   |   18/4    | *Passover*            |
 |   x   |   25/4    | *Passover*            |
 |   6   |   2/5     | Computational epidemiology     | 1) [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), Oxford
