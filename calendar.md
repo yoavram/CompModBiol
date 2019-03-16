@@ -13,7 +13,7 @@ Room C.110 (Computer Science building)
 |   x   |   21/3    | *Purim*               |
 |   3   |   28/3    | Theoretical evolution | 1)
 |       |           |                       | 2) 
-|   4   |   4/4     | Data from evolutionary experiments | 1) 
+|   4   |   4/4     | Data from evolutionary experiments | 1) Ilia Kohanovski
 |       |           |                                    | 2)
 |   5   |   11/4    | Community ecology     | 1) [Jonathan Friedman](https://www.friedmanlab.net), HUJI
 |       |           |                       | 2) 
@@ -41,7 +41,7 @@ Room PE.309 (Psychology building)
 |   1   |   7/3     | x  | x | x  | x |
 |   2   |   14/3    |    |   |    |   | 
 |   x   |   21/3    | *Purim*  | x | x  | x |
-|   3   |   28/3    |    |   |    |   | 
+|   3   |   28/3    |    |   |    | Ilia Kohanovski | 
 |   4   |   4/4     | Guy Haimovitz | | |
 |   5   |   11/4    | Guy Haimovitz | | | | Jonatan Meczyk
 |   x   |   18/4    | *Passover* | x | x | x |
