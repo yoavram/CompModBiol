@@ -5,11 +5,11 @@
 ## Presentations
 Room C.110 (Computer Science building)
 
-|   #   |   Date    |   Topic               |   Speakers    | Links |
+|   #   |   Date    |   Theme               |   Speakers    | Topic |
 |-------|-----------|-----------------------|---------------|-------|
 |   1   |   7/3     | Introduction          | [Yoav Ram](http://www.yoavram.com), IDC | [Models in Biology: slides](https://speakerdeck.com/yoavram/models-in-biology-or-biology-is-more-theoretical-than-physics)|
 |   2   |   14/3    | Theoretical evolution | 1) Yoav Ram   | Introduction to Population Genetics
-|       |           |                       | 2) Saar Egozi |
+|       |           |                       | 2) Saar Egozi | Mutational load
 |   x   |   21/3    | *Purim*               |
 |   3   |   28/3    | Theoretical evolution | 1)
 |       |           |                       | 2) 
@@ -22,7 +22,7 @@ Room C.110 (Computer Science building)
 |   6   |   2/5     | Computational epidemiology     | 1) [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), Oxford
 |       |           |                                | 2) Guy Haimovitz
 |   x   |   9/5     | *Independence Day*    |
-|   7   |   16/5    | Large scale evolutionary data  | 1) Jonatan Meczyk
+|   7   |   16/5    | Large scale evolutionary data  | 1) Jonatan Meczyk 
 |       |           |                                | 2) 
 |   8   |   23/5    | Computational cell dynamics    | 1) [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | 2) Hadar Aharoni
@@ -39,7 +39,7 @@ Room PE.309 (Psychology building)
 |   #   |   Date    | 16:00-16:30 | 16:30-17:00 | 17:00-17:30 | 17:30-18:00 |
 |-------|-----------|-------------|-------------|-------------|-------------|
 |   1   |   7/3     | x  | x | x  | x |
-|   2   |   14/3    |    |   |    |   | 
+|   2   |   14/3    | x |  x |  Saar Egozi | Saar Egozi | 
 |   x   |   21/3    | *Purim*  | x | x  | x |
 |   3   |   28/3    |    |   |    | Ilia Kohanovski | 
 |   4   |   4/4     | Guy Haimovitz | | |
