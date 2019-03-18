@@ -23,7 +23,7 @@ Room C.108 (Computer Science building)
 |       |           |                                | 2) Guy Haimovitz
 |   x   |   9/5     | *Independence Day*    |
 |   7   |   16/5    | Large scale evolutionary data  | 1) Edan Hauon
-|       |           |                                | 2) Guy Trichter
+|       |           |                                | 2) 
 |   8   |   23/5    | Computational cell dynamics    | 1) [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | 2) Hadar Aharoni
 |   9   |   30/5    | Evolution of mutation rate     | 1) Nitzan Katz
@@ -31,7 +31,7 @@ Room C.108 (Computer Science building)
 |   10  |   6/6     | Evolution of learning | 1) Assaf Sinvani
 |       |           |                       | 2) 
 |   11  |   13/6    | Analysis of spatial structure  | 1) [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
-|       |           |                       | 2) 
+|       |           |                       | 2)  Guy Trichter
 
 ## Meetings 
 Room PE.309 (Psychology building)
@@ -50,7 +50,7 @@ Room PE.309 (Psychology building)
 |   x   |   9/5     | x  | Guy Trichter
 |   7   |   16/5    |Hadar Aharoni    |  Nitzan Katz
 |   8   |   23/5    | Assaf Sinvani   | Nitzan Katz
-|   9   |   30/5    | Assaf Sinvani   |
-|   10  |   6/6     |    |
+|   9   |   30/5    | Assaf Sinvani   | Guy Trichter
+|   10  |   6/6     |    |  Guy Trichter
 
 
