@@ -2,7 +2,7 @@
 
 [Home](README.md) | [Calendar](calendar.md) | [Papers](papers.md)
 
-- Seminars take place during Spring semester, Thu 18:30 - 21:00, room C.108, except for Purim, Passover, and Independence Day. See the course [calendar](calendar.md).
+- Seminars take place during Spring semester, Thu 18:30 - 21:00, room C.110, except for Purim, Passover, and Independence Day. See the course [calendar](calendar.md).
 - Each week will cover a specific theme. Some reading material will be provided before most weeks.
 - Two student presentations each week, 45-50 minutes each, plus discussions and a short break. 
 - Each presentation will cover 1-3 papers, depending on the scope and complexity of the papers.
@@ -21,3 +21,4 @@
   - Check that there are no [open pull requests](https://github.com/yoavram/CompModBiol/pulls) for the requested time.
   - To schedule a presentation, add your name/s as speakers to the first table in the [calendar](https://github.com/yoavram/CompModBiol/blob/master/calendar.md).
   - To schedule a meeting, add your name/s to the second table in the [calendar](https://github.com/yoavram/CompModBiol/blob/master/calendar.md) at the requested time.
+  - In the pull request, please specify which papers/topic, more or less, you want to present.
