@@ -31,7 +31,7 @@ Room C.110 (Computer Science building)
 |   10  |   6/6     | Evolution of learning | 1) Assaf Sinvani
 |       |           |                       | 2) Gilad Ram
 |   11  |   13/6    | Analysis of spatial structure  | 1) [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
-|       |           |                       | 2) 
+|       |           |                                | 2)  Guy Trichter
 
 ## Meetings 
 Room PE.309 (Psychology building)
@@ -50,7 +50,5 @@ Room PE.309 (Psychology building)
 |   x   |   9/5     | *Independence Day*  | x | x | x |
 |   7   |   16/5    |Hadar Aharoni | |  Nitzan Katz | Boaz Shvartzman |
 |   8   |   23/5    | Assaf Sinvani | Gilad Ram | Nitzan Katz | Boaz Shvartzman |
-|   9   |   30/5    | Assaf Sinvani | | | Gilad Ram|
-|   10  |   6/6     | x | x | | |
-
-
+|   9   |   30/5    | Assaf Sinvani | | Guy Trichter | Gilad Ram|
+|   10  |   6/6     | x | x | | Guy Trichter |
