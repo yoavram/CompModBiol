@@ -8,10 +8,10 @@ Room C.110 (Computer Science building)
 |   #   |   Date    |   Theme               |   Speakers    | Topic |
 |-------|-----------|--------------------------------|--------------------|-------|
 |   1   |   7/3     | Introduction                   | [Yoav Ram](http://www.yoavram.com), IDC | [Models in Biology: slides](https://speakerdeck.com/yoavram/models-in-biology-or-biology-is-more-theoretical-than-physics)|
-|   2   |   14/3    | Theoretical evolution          | 1) Yoav Ram        | Introduction to Population Genetics
-|       |           |                                | 2) Saar Egozi      | Mutational load
+|   2   |   14/3    | Population Genetics          | 1) Yoav Ram        | [Hardy-Weinberg principle](https://www.dropbox.com/s/o4dc5d3ki3rk2en/PopGen1.pdf?dl=0)
+|       |           |                                | 2) Saar Egozi    | Mutational load
 |   x   |   21/3    | *Purim*                        |
-|   3   |   28/3    | Theoretical evolution          | 1) Yoav Ram
+|   3   |   28/3    | Population Genetics            | 1) Yoav Ram      | [Selection, mutation, dominance](https://www.dropbox.com/s/kjf007depfllvmo/PopGen2.pdf?dl=0)
 |   4   |   4/4     | Evolutionary experiments       | 1) Yoav Ram
 |       |           |                                | 2) Ilia Kohanovski
 |   5   |   11/4    | Community ecology              | 1) [Jonathan Friedman](https://www.friedmanlab.net), HUJI
