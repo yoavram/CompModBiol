@@ -73,4 +73,8 @@
 - Dellus-Gur E, Ram Y, Hadany L (2017) Errors in mutagenesis and the benefit of cell-to-cell signalling in the evolution of stress-induced mutagenesis. R Soc Open Sci 4(11):170529.
 - Ram Y, Altenberg L, Liberman U, Feldman MW (2018) Generation of variation and a modified mean fitness principle: Necessity is the mother of genetic invention. Theor Popul Biol 123:1–8.
 
+### Community ecology of the microbiome 
+- Friedman J, Gore J (2017) Ecological systems biology: The dynamics of interacting populations. Curr Opin Syst Biol 1:114–121.
+- David LA, et al. (2014) Host lifestyle affects human microbiota on daily timescales. Genome Biol 15(7):R89.
+- Carr AC, et al. (2018) Deciphering microbial interactions in synthetic human gut microbiome communities. Mol Syst Biol 14(6):e8157.
 
