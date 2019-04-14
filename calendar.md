@@ -18,7 +18,7 @@ Room C.110 (Computer Science building)
 |       |           | Ecology of the gut microbiome | Stav Eliav
 |   x   |   18/4    | *Passover*                     |
 |   x   |   25/4    | *Passover*                     |
-|   6   |   2/5     | Computational epidemiology     | [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), Oxford
+|   6   |   2/5     | Computational epidemiology     | [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), TAU
 |       |           | Google Flu trends | Guy Haimovitz
 |   x   |   9/5     | *Independence Day*             |
 |   7   |   16/5    | Large scale evolutionary data  | Yoav Ram
