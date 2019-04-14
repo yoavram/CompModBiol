@@ -7,19 +7,19 @@ Room C.110 (Computer Science building)
 
 |   #   |   Date    |   Theme               |   Speakers    | Topic |
 |-------|-----------|--------------------------------|--------------------|-------|
-|   1   |   7/3     | Introduction                   | [Yoav Ram](http://www.yoavram.com), IDC | [Models in Biology: slides](https://speakerdeck.com/yoavram/models-in-biology-or-biology-is-more-theoretical-than-physics)|
-|   2   |   14/3    | Population Genetics          | 1) Yoav Ram        | [Hardy-Weinberg principle](https://www.dropbox.com/s/o4dc5d3ki3rk2en/PopGen1.pdf?dl=0)
-|       |           |                                | 2) Saar Egozi    | Mutational load
+|   1   |   7/3     | Introduction: Models in Biology| [Yoav Ram](http://www.yoavram.com), IDC | [slides](https://speakerdeck.com/yoavram/models-in-biology-or-biology-is-more-theoretical-than-physics)|
+|   2   |   14/3    | Population Genetics: Hardy-Weinberg principle | 1) Yoav Ram | [slides](https://www.dropbox.com/s/o4dc5d3ki3rk2en/PopGen1.pdf?dl=0)
+|       |           | Population Genetics: Mutational load | 2) Saar Egozi
 |   x   |   21/3    | *Purim*                        |
-|   3   |   28/3    | Population Genetics            | 1) Yoav Ram      | [Selection, mutation, dominance](https://www.dropbox.com/s/kjf007depfllvmo/PopGen2.pdf?dl=0)
-|   4   |   4/4     | Evolutionary experiments       | 1) Yoav Ram      | [Drift and adaptation](https://www.dropbox.com/s/1e1qn3q19sb0a3w/PopGen3.pdf?dl=0)
-|       |           |                                | 2) Ilia Kohanovski
-|   5   |   11/4    | Community ecology              | 1) [Jonathan Friedman](https://www.friedmanlab.net), HUJI
-|       |           |                                | 2) Stav Eliav
+|   3   |   28/3    | Population Genetics: Selection, mutation, dominance | 1) Yoav Ram | [slides](https://www.dropbox.com/s/kjf007depfllvmo/PopGen2.pdf?dl=0)
+|   4   |   4/4     | Population Genetics: Drift and adaptation | 1) Yoav Ram | [slides](https://www.dropbox.com/s/1e1qn3q19sb0a3w/PopGen3.pdf?dl=0)
+|       |           | Inference from evolutionary experiments  | 2) Ilia Kohanovski
+|   5   |   11/4    | Community ecology              | 1) [Jonathan Friedman](https://www.friedmanlab.net), HUJI | [slides](https://www.dropbox.com/s/4wz7fe2yyyvdv2z/intro_community_ecology.pdf?dl=0)
+|       |           | Ecology of the gut microbiome | 2) Stav Eliav
 |   x   |   18/4    | *Passover*                     |
 |   x   |   25/4    | *Passover*                     |
 |   6   |   2/5     | Computational epidemiology     | 1) [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), Oxford
-|       |           |                                | 2) Guy Haimovitz
+|       |           | Google Flu trends | 2) Guy Haimovitz
 |   x   |   9/5     | *Independence Day*             |
 |   7   |   16/5    | Large scale evolutionary data  | 1) Yoav Ram
 |       |           |                                | 2) Jonatan Meczyk
