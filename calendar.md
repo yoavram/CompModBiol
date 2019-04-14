@@ -45,7 +45,7 @@ Room PE.309 (Psychology building)
 |   5   |   11/4    | Guy Haimovitz | | | Jonatan Meczyk
 |   x   |   18/4    | *Passover* | x | x | x |
 |   x   |   25/4    | *Passover*  | x | x | x |
-|   6   |   2/5     | |   | Hadar Aharoni | Jonatan Meczyk
+|   6   |   2/5     | Jonatan Meczyk | | Hadar Aharoni | |
 |   x   |   9/5     | *Independence Day*  | x | x | x |
 |   7   |   16/5    |Hadar Aharoni | |  Nitzan Katz | Boaz Shvartzman |
 |   8   |   23/5    | Assaf Sinvani | Gilad Ram | Nitzan Katz | Boaz Shvartzman |
