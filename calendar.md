@@ -5,7 +5,7 @@
 ## Presentations
 Room C.110 (Computer Science building)
 
-|   #   |   Date    |   Theme               |   Speakers    | Topic |
+|   #   |   Date    |   Theme               |   Speakers    | Link |
 |-------|-----------|--------------------------------|--------------------|-------|
 |   1   |   7/3     | Introduction: Models in Biology| [Yoav Ram](http://www.yoavram.com), IDC | [slides](https://speakerdeck.com/yoavram/models-in-biology-or-biology-is-more-theoretical-than-physics)|
 |   2   |   14/3    | Population Genetics: Hardy-Weinberg principle | Yoav Ram | [slides](https://www.dropbox.com/s/o4dc5d3ki3rk2en/PopGen1.pdf?dl=0)
