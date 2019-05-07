@@ -21,8 +21,8 @@ Room C.110 (Computer Science building)
 |   6   |   2/5     | Computational epidemiology     | [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), TAU
 |       |           | Google Flu trends | Guy Haimovitz
 |   x   |   9/5     | *Independence Day*             |
-|   7   |   16/5    | Large scale evolutionary data  | Yoav Ram
-|       |           |                                | Jonatan Meczyk
+|   7   |   16/5    | Evolution of cooperation       | Yoav Ram
+|       |           | Polygenic risk scores          | Jonatan Meczyk
 |   8   |   23/5    | Computational cell dynamics    | [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | Hadar Aharoni
 |   9   |   30/5    | Evolution of mutation rate     | Nitzan Katz
