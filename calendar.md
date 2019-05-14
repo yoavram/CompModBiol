@@ -21,7 +21,7 @@ Room C.110 (Computer Science building)
 |   6   |   2/5     | Computational epidemiology     | [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), TAU
 |       |           | Google Flu trends | Guy Haimovitz
 |   x   |   9/5     | *Independence Day*             |
-|   7   |   16/5    | Evolution of cooperation       | Yoav Ram | [notebook](https://www.dropbox.com/s/yb1jnnzp0uvo9ht/cooperation.ipynb?dl=0) [pdf](https://www.dropbox.com/s/2stlm5u2fblq8mu/cooperation.pdf?dl=0)
+|   7   |   16/5    | Evolution of cooperation       | Yoav Ram | [notebook](https://www.dropbox.com/s/yb1jnnzp0uvo9ht/cooperation.ipynb?dl=0) / [pdf](https://www.dropbox.com/s/2stlm5u2fblq8mu/cooperation.pdf?dl=0)
 |       |           | Polygenic risk scores          | Jonatan Meczyk
 |   8   |   23/5    | Computational cell dynamics    | [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | Hadar Aharoni
