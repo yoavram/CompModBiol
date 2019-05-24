@@ -24,7 +24,7 @@ Room C.110 (Computer Science building)
 |   7   |   16/5    | Evolution of cooperation       | Yoav Ram | [notebook](https://www.dropbox.com/s/yb1jnnzp0uvo9ht/cooperation.ipynb?dl=0) / [pdf](https://www.dropbox.com/s/2stlm5u2fblq8mu/cooperation.pdf?dl=0)
 |       |           | Polygenic risk scores          | Jonatan Meczyk
 |   8   |   23/5    | Computational cell dynamics    | [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
-|       |           |                                | Hadar Aharoni
+|       |           | Cell microscopy image restoration | Hadar Aharoni
 |   9   |   30/5    | Evolution of mutation rate     | Nitzan Katz
 |       |           |                                | Boaz Shvartzman
 |   10  |   6/6     | Cultural evolution             | Assaf Sinvani
