@@ -30,7 +30,7 @@ Room C.110 (Computer Science building)
 |   10  |   6/6     | Cultural evolution             | Assaf Sinvani
 |       |           | Language evolution             | Gilad Ram
 |   11  |   13/6    | Spatial structure in genetic data | [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
-|       |           | spatial structure in epigenetic data | Guy Trichter
+|       |           | Spatial structure in epigenetic data | Guy Trichter
 
 ## Meetings 
 Room PE.309 (Psychology building)
