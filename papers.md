@@ -58,8 +58,6 @@
 ### Polygenic risk scores
 - De Vlaming R, Groenen PJF (2015) The current and future use of ridge regression for prediction in quantitative genetics. Biomed Res Int 2015. doi:10.1155/2015/143712.
 - Dudbridge F (2013) Power and Predictive Accuracy of Polygenic Risk Scores. PLoS Genet 9(3). doi:10.1371/journal.pgen.1003348.
-- Domingue BW, et al. (2018) The social genome of friends and schoolmates in the National Longitudinal Study of Adolescent to Adult Health. Proc Natl Acad Sci 0:201711803.
-- Trejo S, et al. (2018) Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath. Sociol Sci 5:513–540.
 - Kong A, et al. (2018) The nature of nurture: Effects of parental genotypes. Science (80- ) 359(6374):424–428.
 
 ## Week 8
@@ -68,8 +66,6 @@
 
 ### Cellular microscopy image enhancement with deep learning
 - Weigert M, et al. (2018) Content-aware image restoration: pushing the limits of fluorescence microscopy. Nat Methods 15(12):1090–1097.
-- Christiansen EM, et al. (2018) In Silico Labeling: Predicting Fluorescent Labels in Unlabeled Images. Cell 173(3):792–803.e19.
-- Ounkomol C, Seshamani S, Maleckar MM, Collman F, Johnson GR (2018) Label-free prediction of three-dimensional fluorescence images from transmitted-light microscopy. Nat Methods 15(11):917–920.
 
 ## Week 9
 ### Preliminary reading
@@ -77,7 +73,6 @@
 
 ### Reduction principle
 - Altenberg L, Liberman U, Feldman MW (2017) Unified reduction principle for the evolution of mutation, migration, and recombination. Proc Natl Acad Sci USA 114:E2392– E2400.
-- Ram Y, Altenberg L, Liberman U, Feldman MW (2018) Generation of variation and a modified mean fitness principle: Necessity is the mother of genetic invention. Theor Popul Biol 123:1–8.
 
 ### Adaptive evolution
 - Taddei F, et al. (1997) Role of mutator alleles in adaptive evolution. Nature 387(6634):700–2.
@@ -91,23 +86,12 @@
 ### Preliminary reading
 - Creanza N, Kolodny O, Feldman MW (2017) Cultural evolutionary theory: How culture evolves and why it matters. Proc Natl Acad Sci 114(30):7782–7789. doi:[10.1073/pnas.1620732114](http://doi.org/10.1073/pnas.1620732114)
 
-### Evolution of social learning
-- Wakano JY, Aoki K, Feldman MW (2004) Evolution of social learning: A mathematical analysis. Theor Popul Biol 66:249–258.
+### Cultural evolution
 - Aoki K, Wakano JY, Feldman MW (2005) The emergence of social learning in a temporally changing environment: a theoretical model. Curr Anthropol 46(2):334–340.
-- Borenstein E, Feldman MW, Aoki K (2008) Evolution of learning in fluctuating environments: When selection favors both social and exploratory individual learning. Evolution (N Y) 62(3):586–602.
 - McElreath R, Strimling P (2008) When Natural Selection Favors Imitation of Parents. Curr Anthropol 49(2):307–316.
-- Kobayashi Y, Wakano JY (2012) EVOLUTION OF SOCIAL VERSUS INDIVIDUAL LEARNING IN AN INFINITE ISLAND MODEL. Evolution (N Y) 66(5):1624–1635.
-- Aoki K, Wakano JY, Feldman MW (2016) Gene-Culture Models for the Evolution of Altruistic Teaching (Elsevier Inc.) doi:10.1016/B978-0-12-420190-3.00018-1.
-- Ram Y, Liberman U, Feldman MW (2018) Evolution of vertical and oblique transmission under fluctuating selection. Proc Natl Acad Sci:201719171.
-- Ram Y, Liberman U, Feldman MW (2019) Vertical and oblique cultural transmission fluctuating in time and in space. Theor Popul Biol 125:11–19.
 
-### Network-based diffusion analysis
-- Cantor M, Whitehead H (2013) The interplay between social networks and culture: theoretically and among whales and dolphins. Philos Trans R Soc B Biol Sci 368(1618):20120340–20120340.
-- Franz M, Nunn CL (2009) Network-based diffusion analysis: a new method for detecting social learning. Proc R Soc B Biol Sci 276(1663):1829–1836.
-- Allen J, Weinrich M, Hoppitt W, Rendell L (2013) Network-Based Diffusion Analysis Reveals Cultural Transmission of Lobtail Feeding in Humpback Whales. Science (80- ) 340(6131):485–488.
-- Hoppitt W, Boogert NJ, Laland KN (2010) Detecting social transmission in networks. J Theor Biol 263(4):544–555.
-- Kendal RL, et al. (2010) Evidence for social learning in wild lemurs (Lemur catta). Learn Behav 38(3):220–234.
-- Hobaiter C, Poisot T, Zuberbühler K, Hoppitt W, Gruber T (2014) Social Network Analysis Shows Direct Evidence for Social Transmission of Tool Use in Wild Chimpanzees. PLoS Biol 12(9).
+### Language evolution
+
 
 ## Week 11
 ### Preliminary reading
@@ -116,7 +100,5 @@
 ### Analysis of spatial structure 
 - Novembre J, et al. (2008) Genes mirror geography within Europe. Nature 456(7218):98–101.
 - Yang W-Y, Novembre J, Eskin E, Halperin E (2012) A model-based approach for analysis of spatial structure in genetic data. Nat Genet 44(6):725–731.
-- Creanza N, Feldman MW (2016) Worldwide genetic and cultural change in human evolution. Curr Opin Genet Dev 41:85–92.
-- Creanza N, et al. (2015) A comparison of worldwide phonemic and genetic variation in human populations. Proc Natl Acad Sci 112(5):1265–1272.
 - Carja O, et al. (2017) Worldwide patterns of human epigenetic variation. Nat Ecol Evol:0–1.
 
