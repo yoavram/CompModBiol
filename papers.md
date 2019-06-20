@@ -88,6 +88,10 @@
 - McElreath R, Strimling P (2008) When Natural Selection Favors Imitation of Parents. Curr Anthropol 49(2):307–316.
 
 ### Language evolution
+- Simon Kirby (2001) Spontaneous Evolution of Linguistic Structure. An Iterated Learning Model of the Emergence of Regularity and Irregularity. 
+- Michael Cogswell, Jiasen L, et al. (2019)  Emergence of Compositional Language with Deep Generational Transmission.
+- Satwik Kottur, José M.F. Moura et al. (2017) Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog.
+- Raviv, Limor, Meyer, Antje, and Lev-Ari, Shiri. Compositional structure can emerge without generational transmission. Cognition, 182:151–164, 2018.
 
 
 ## Week 11
