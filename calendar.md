@@ -28,7 +28,7 @@ Room C.110 (Computer Science building)
 |   9   |   30/5    | Evolution of mutation rate     | Nitzan Katz
 |       |           |                                | Boaz Shvartzman
 |   10  |   6/6     | Cultural evolution             | Assaf Sinvani
-|       |           | Language evolution             | Gilad Ram
+|       |           | Language evolution             | [Gilad Ram](https://docs.google.com/presentation/d/1lJVAnSda0M6KsSEWQlnWH16t16Kx62USccIkmHzN9oU/edit?usp=sharing)
 |   11  |   13/6    | Spatial structure in genetic data | [Ilan Gronau](http://www.faculty.idc.ac.il/igronau/), IDC
 |       |           | Spatial structure in epigenetic data | Guy Trichter
 
