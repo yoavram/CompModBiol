@@ -76,11 +76,8 @@
 
 ### Adaptive evolution
 - Taddei F, et al. (1997) Role of mutator alleles in adaptive evolution. Nature 387(6634):700–2.
-- Tenaillon O, Toupance B, Le Nagard H, Taddei F, Godelle B (1999) Mutators, population size, adaptive landscape and the adaptation of asexual populations of bacteria. Genetics 152(2):485–93. PMID:10353893
-- Tenaillon O, Le Nagard H, Godelle B, Taddei F (2000) Mutators and sex in bacteria: conflict between adaptive strategies. Proc Natl Acad Sci U S A 97(19):10465–70. doi:10.1073/pnas.180063397
-- Desai MM, Fisher DS (2011) The balance between mutators and nonmutators in asexual populations. Genetics 188(4):997–1014.
-- Frenkel EM, Good BH, Desai MM (2014) The Fates of Mutant Lineages and the Distribution of Fitness Effects of Beneficial Mutations in Laboratory Budding Yeast Populations. Genetics. doi:10.1534/genetics.113.160069.
-- Good BH, Desai MM (2016) Evolution of mutation rates in rapidly adapting asexual populations. Genetics 204(3):1249–1266.
+- Sniegowski PD, et al. (1997) Evolution of High Mutation Rates in Experimental Populations of _E. Coli_. Nature 387(6634):703–5.
+- Wielgoss S, et al. (2012) Mutation Rate Dynamics in a Bacterial Population Reflect Tension between Adaptation and Genetic Load. Proceedings of the National Academy of Sciences 110(1):222–27.
 
 ## Week 10
 ### Preliminary reading
