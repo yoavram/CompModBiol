@@ -59,6 +59,7 @@
 - Zhang W, et al. (2012) Estimation of the rate and effect of new beneficial mutations in asexual populations. Theor Popul Biol 81(2):168–178.
 - Moura De Sousa JA, Campos PRAA, Gordo I (2013) An ABC Method for Estimating the Rate and Distribution of Effects of Beneficial Mutations. Genome Biol Evol 5(5):794–806. doi:10.1093/gbe/evt045
 - Lang, Gregory I., David Botstein, and Michael M. Desai. 2011. “Genetic Variation and the Fate of Beneficial Mutations in Asexual Populations.” Genetics 188 (3): 647–61. https://doi.org/10.1534/genetics.111.128942.
+- Lerner, Jesse, Michael Manhart, Weronika Jasinska, Louis Gauthier, Adrian W.R. Serohijos, and Shimon Bershtein. n.d. “Chromosomal Barcoding of E. Coli Populations Reveals Lineage Diversity Dynamics at High Resolution.” BioRxiv. https://doi.org/10.1101/571505.
 
 ### Long-term evolutionary experiment
 - Lenski RE, Rose MR, Simpson SC, Tadler SC (1991) Long-Term Experimental Evolution in Escherichia coli. I. Adaptation and Divergence During 2,000 Generations. Am Nat 138(6):1315.
